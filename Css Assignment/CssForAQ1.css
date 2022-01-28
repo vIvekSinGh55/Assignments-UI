@@ -1,0 +1,29 @@
+div,h1,h4,p{
+    margin: 0%;
+}
+
+div{
+    width: 100%;
+    height: auto;
+    padding: 0;
+    background-color: cadetblue;
+}
+ 
+ h1{
+     background-color: #d3a789;
+     padding-bottom: 30px;
+ }
+ h4{
+     margin: 10px 0 25px 0;  
+ }
+
+ p{
+    padding: 10px 0 25px 0; 
+     background-color: rgb(189, 207, 138);
+ }
+
+ div#space{
+     height: 20px;
+     width: 100%;
+     background-color: rgb(185, 240, 84);
+ }
